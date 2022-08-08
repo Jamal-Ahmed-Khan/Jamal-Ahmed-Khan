@@ -1,8 +1,8 @@
 - <h1>👋 Hi, I’m @Jamal-Ahmed-Khan</h1>
-<h3>- 👀 I’m interested in Data Science
-- 💼 I'm a undergraduate Software Engineer and have proficiency in python, Data analytics and Machine Learning
-- 🌱 I’m currently learning Advanced Deep Learning Algorithms
-- 💞️ I’m looking to collaborate on Artificial Intelligence related Projects
+<h3>- 👀 I’m interested in Data Science</br>
+- 💼 I'm a undergraduate Software Engineer and have proficiency in python, Data analytics and Machine Learning</br>
+- 🌱 I’m currently learning Advanced Deep Learning Algorithms</br>
+- 💞️ I’m looking to collaborate on Artificial Intelligence related Projects</br>
 - 📫 How to reach me https://www.linkedin.com/in/jamal-ahmed-khan-619409117/</h3>
 
 <!---
