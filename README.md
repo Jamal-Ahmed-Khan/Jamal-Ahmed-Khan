@@ -1,8 +1,9 @@
 - <h1>👋 Hi, I’m @Jamal-Ahmed-Khan</h1>
-- 👀 I’m interested in Data Science
+<h3>- 👀 I’m interested in Data Science
+- 💼 I'm a undergraduate Software Engineer and have proficiency in python, Data analytics and Machine Learning
 - 🌱 I’m currently learning Advanced Deep Learning Algorithms
 - 💞️ I’m looking to collaborate on Artificial Intelligence related Projects
-- 📫 How to reach me https://www.linkedin.com/in/jamal-ahmed-khan-619409117/
+- 📫 How to reach me https://www.linkedin.com/in/jamal-ahmed-khan-619409117/</h3>
 
 <!---
 Jamal-Ahmed-Khan/Jamal-Ahmed-Khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
